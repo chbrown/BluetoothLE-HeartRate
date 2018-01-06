@@ -1,0 +1,17 @@
+{
+  "name": "bluetoothle-heartrate",
+  "description": "Listen for heart rate data from a Bluetooth Low Energy (BLE) sensor",
+  "keywords": [
+    "bluetooth",
+    "ble",
+    "hrv"
+  ],
+  "version": "1.0.0",
+  "homepage": "https://github.com/chbrown/BluetoothLE-HeartRate",
+  "repository": "git://github.com/chbrown/BluetoothLE-HeartRate.git",
+  "author": "Christopher Brown <io@henrian.com>",
+  "license": "MIT",
+  "dependencies": {
+    "noble": "^1.8.1"
+  }
+}
