@@ -1,5 +1,7 @@
 # BluetoothLE-HeartRate
 
+[![latest version published to npm](https://badge.fury.io/js/bluetoothle-heartrate.svg)](https://www.npmjs.com/package/bluetoothle-heartrate)
+
 `bluetoothle-heartrate` is a Node.js package that listens for heart rate data
 from a [Polar H7](https://web.archive.org/web/20160929093756/https://developer.polar.com/wiki/H6_and_H7_Heart_rate_sensors) Bluetooth Low Energy (BLE) heart rate sensor
 (using [`noble`](https://github.com/sandeepmistry/noble), a popular **No**de.js library for connecting to **BLE** devices),
